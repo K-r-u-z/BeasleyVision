@@ -45,7 +45,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::after {
-	content: var(--header-sub-title);
+	content: var(--header-subtitle);
 	position: static;
 	margin-top: -5px;
 	margin-left: 5px;
