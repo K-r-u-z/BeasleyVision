@@ -34,7 +34,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::before {
-	content: "BeasleyVision";
+	content: "BeasleyVision 1.2";
 	position: static;
 	margin-left: 10px;
 	font-size: 16px;
