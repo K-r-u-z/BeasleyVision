@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="BeasleyVision" src="https://github.com/user-attachments/assets/2b28ee51-2a38-4264-9063-d9ca03b00b2d" />
+
+
+
+
+
 BeasleyVision — Discord Theme
 =============================
 
@@ -8,6 +14,7 @@ Designed for users who want a clean, modern, and visually appealing Discord expe
 
 Installation Instructions
 -------------------------
+![Uploading BeasleyVision.png…]()
 
 Supported Clients:
 - BetterDiscord
