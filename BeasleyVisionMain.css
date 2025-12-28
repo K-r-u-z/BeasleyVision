@@ -45,7 +45,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::after {
-	content: "4KT";
+	content: var(--header-sub-title);
 	position: static;
 	margin-top: -5px;
 	margin-left: 5px;
