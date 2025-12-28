@@ -14,7 +14,6 @@ Designed for users who want a clean, modern, and visually appealing Discord expe
 
 Installation Instructions
 -------------------------
-![Uploading BeasleyVision.png…]()
 
 Supported Clients:
 - BetterDiscord
