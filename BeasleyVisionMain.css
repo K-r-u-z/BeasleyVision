@@ -34,7 +34,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::before {
-	content: "BeasleyVision";
+	content: var(--header-title);
 	position: static;
 	margin-left: 10px;
 	font-size: 16px;
@@ -45,7 +45,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::after {
-	content: "1.2";
+	content: "4KT";
 	position: static;
 	margin-top: -5px;
 	margin-left: 5px;
