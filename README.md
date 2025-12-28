@@ -22,7 +22,7 @@ Vencord Installation
 --------------------
 1. Install Vencord. https://vencord.dev/
 
-2. Download the BeasleyVision .theme.css file from the release page.
+2. Download the BeasleyVision.css file from the release page.
 
 3. Open Discord and go to Settings.
 
