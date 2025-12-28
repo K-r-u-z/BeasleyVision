@@ -25,7 +25,7 @@
 
 /*!BeasleyVision */
 ._2debea61131de3de-info::after {
-	content: "BeasleyVision 1.2";
+	content: "BeasleyVision";
 	color: var(--text-muted);
 	font-size: 12px;
 	line-height: 1.3333333333;
@@ -34,7 +34,7 @@
 }
 
 :is(.theme-dark, .theme-light):not(.platform-osx) .c38106a3f0c3ca76-leading::before {
-	content: "BeasleyVision 1.2";
+	content: "BeasleyVision";
 	position: static;
 	margin-left: 10px;
 	font-size: 16px;
